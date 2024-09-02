@@ -42,8 +42,8 @@ Note :
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/whereispratim/data-pipeline.git
-   cd data-pipeline
+   git clone https://github.com/whereispratim/pg-health-data-pipeline
+   cd pg-health-data-pipeline
 
 2. **Configure Application Settings**
 
