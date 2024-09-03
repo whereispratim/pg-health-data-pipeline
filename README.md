@@ -25,7 +25,7 @@ The PG Health Data Pipeline is a scalable `Real-time Patient Monitoring and Anal
 
 - Java 8 or higher
 - Scala 2.12
-- Apache Spark 3.2.0
+- Apache Spark 3.5.0
 - Apache Kafka
 - Delta Lake 1.0.0
 - Apache Iceberg 0.13.1
